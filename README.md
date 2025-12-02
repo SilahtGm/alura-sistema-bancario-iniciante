@@ -1,39 +1,55 @@
-#Sistema Bancário – Versão Inicial (Curso Alura)#
+# 💻 Sistema Bancário – Versão Inicial (Curso Alura)
 
-Este repositório contém meu primeiro projeto em Java desenvolvido durante o curso de introdução da Alura.
-O objetivo foi praticar fundamentos da linguagem, como:
+Este repositório contém meu primeiro projeto em Java desenvolvido durante o curso introdutório da Alura.  
+O objetivo foi praticar os fundamentos da linguagem, aplicando:
 
-Estruturas de controle
+- Estruturas de controle  
+- Uso da classe `Scanner`  
+- Laços de repetição  
+- Estruturação básica de um programa  
+- Instrução `switch-case`  
+- Manipulação de variáveis e operações bancárias simples  
 
-Uso do Scanner
+> 🔎 **Importante:** Esta é a versão **inicial**, ainda **sem Programação Orientada a Objetos (POO)**.  
+A versão refatorada em POO será adicionada futuramente em outro repositório.
 
-Laços de repetição
+---
 
-Estruturação básica de um programa
+## 🏦 Descrição do Projeto
 
-Switch-case
+O programa simula um sistema bancário simples via console, permitindo ao usuário:
 
-Manipulação de variáveis e operações bancárias simples
+✔ Consultar saldo  
+✔ Receber uma transação (depósito)  
+✔ Efetuar uma transação (saque/envio de dinheiro)  
+✔ Validar entradas incorretas  
+✔ Repetir operações até escolher sair  
 
-Esta é a versão inicial, ainda sem Programação Orientada a Objetos (POO).
-A versão refatorada em POO será adicionada posteriormente em outro repositório ou outra branch.
+Embora baseado em um desafio básico do curso, o sistema foi **expandido** com:
 
-🏦 Descrição do Projeto
+- Mensagens mais realistas  
+- Loops de validação  
+- Tratamento básico de exceções  
+- Interface textual mais organizada  
 
-O programa simula um sistema bancário simples em console, permitindo:
+---
 
-✔ Consultar saldo
-✔ Receber uma transação (depósito)
-✔ Efetuar uma transação (envio de dinheiro)
-✔ Validar entradas incorretas
-✔ Repetir operações até o usuário escolher sair
+## 🎯 Objetivo Educacional
 
-Ele segue a proposta das atividades práticas iniciais do curso da Alura, mas foi expandido com:
+Este projeto foi criado para:
 
-Mensagens mais realistas
+📌 Registrar minha evolução durante o curso  
+📌 Aplicar lógica de programação em Java na prática  
+📌 Consolidar fundamentos antes de aprender POO  
+📌 Servir como comparação com a versão futura em **POO**, que será muito mais:
 
-Loops de validação
+- Modular  
+- Segura  
+- Escalável  
+- Profissional  
 
-Tratamento básico de exceções
+---
 
-Interface textual mais organizada
+
+
+
