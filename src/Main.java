@@ -9,8 +9,10 @@ public class Main {
         double valorTransacao = 0;
         String cr;
 
-
+        // Instancia do Scanner
         Scanner sc = new Scanner(System.in);
+
+        // Menu da operação
         do {
             System.out.println("==== Sistema Bancário ====");
             System.out.println("Operações:");
